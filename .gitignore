@@ -1,0 +1,5 @@
+# ______________ Ignore node_modules folder and its sub directories
+node_modules/
+node_modules/*
+
+
