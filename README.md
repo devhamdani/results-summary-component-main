@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Solution Links
 
-- Solution URL: [Add solution URL here]
-- Live Site URL: [Add live site URL here]
+- Solution URL: [https://github.com/feDev-Hammad/results-summary-component-main.git]
+- Live Site URL: [https://fedev-hammad.github.io/results-summary-component-main/]
 
 ### Built with
 
